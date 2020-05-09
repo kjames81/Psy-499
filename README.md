@@ -8,7 +8,7 @@ For both a data structure from [ephys tools github](https://github.com/ryanharve
 4) Smoothed. 
 5) Plotted with both paths and occupancy. 
 
-##Dependencies 
+## Dependencies 
 * Clone of [ephys tools github](https://github.com/ryanharvey1/ephys_tools) 
 * [Image Processing Toolbox](https://www.mathworks.com/products/image.html)
 
